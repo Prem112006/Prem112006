@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Prem Kardani</h1>
 
 <h3 align="center">Full Stack MERN Developer</h3>
@@ -9,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/Prem112006">
-    <img src="https://img.shields.io/badge/GitHub-Profile-8B5E3C?logo=github&logoColor=8B5E3C&labelColor=F5EBDD">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
   </a>
   <a href="https://www.linkedin.com/in/prem-kardani-42a1422a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5E3C?logo=linkedin&logoColor=8B5E3C&labelColor=F5EBDD">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
 </p>
 
@@ -31,44 +30,44 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql" />
 </p>
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🔗 APIs & Integration
 <p>
-  <img src="https://img.shields.io/badge/REST_API-8B5E3C?style=for-the-badge&labelColor=F5EBDD" />
-  <img src="https://img.shields.io/badge/Axios-8B5E3C?style=for-the-badge&logo=axios&logoColor=8B5E3C&labelColor=F5EBDD" />
-  <img src="https://img.shields.io/badge/Yahoo_Finance_API-8B5E3C?style=for-the-badge&logo=yahoo&logoColor=8B5E3C&labelColor=F5EBDD" />
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8B5E3C?style=for-the-badge&logo=googlegemini&logoColor=8B5E3C&labelColor=F5EBDD" />
-  <img src="https://img.shields.io/badge/Chart.js-8B5E3C?style=for-the-badge&logo=chartdotjs&logoColor=8B5E3C&labelColor=F5EBDD" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yahoo_Finance_API-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-  <img src="https://img.shields.io/badge/MongoDB_Compass-8B5E3C?style=for-the-badge&logo=mongodb&logoColor=8B5E3C&labelColor=F5EBDD" />
-  <img src="https://img.shields.io/badge/Anti--Gravity-8B5E3C?style=for-the-badge&labelColor=F5EBDD" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anti--Gravity-222222?style=for-the-badge" />
 </p>
 
 ### 🚀 Deployment Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=light" />
-  <img src="https://img.shields.io/badge/Render-8B5E3C?style=for-the-badge&logo=render&logoColor=8B5E3C&labelColor=F5EBDD" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 ### 📚 Other Skills
@@ -119,11 +118,11 @@ SmartCart Mobiles – E-Commerce Platform | React, Node.js, Express, MongoDB, JW
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Prem112006&show_icons=true&theme=default&title_color=8B5E3C&icon_color=8B5E3C&text_color=5C4635&bg_color=F5EBDD" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Prem112006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prem112006&layout=compact&theme=default&title_color=8B5E3C&text_color=5C4635&bg_color=F5EBDD" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prem112006&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
