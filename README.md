@@ -83,29 +83,29 @@
 
 ### 🩺 Mediscan AI
 MediScan AI – AI-Powered Medical Analysis Platform | React, Node.js, Express, MongoDB, Gemini API
-•	Developed a web platform to analyze medical reports and prescriptions.
-•	Used OCR and PDF parsing to extract text from medical documents.
-•	Integrated Gemini AI to explain lab results and identify abnormal values.
-•	Implemented secure login using JWT, Google OAuth, and email OTP.
-•	Built a responsive dashboard to manage medical reports, medications, and health history.
+-	Developed a web platform to analyze medical reports and prescriptions.
+-	Used OCR and PDF parsing to extract text from medical documents.
+-	Integrated Gemini AI to explain lab results and identify abnormal values.
+-	Implemented secure login using JWT, Google OAuth, and email OTP.
+-	Built a responsive dashboard to manage medical reports, medications, and health history.
 
 ### 📈 Stock Market Prediction
 AI Stock Market Prediction Platform | Node.js, Express, MongoDB, Python, Socket.io, JWT
-•	Developed a stock market platform with AI predictions and virtual trading.
-•	Built REST APIs for stock data, user accounts, and transaction history.
-•	Integrated Python and Yahoo Finance for stock data and ML predictions.
-•	Used Socket.io for real-time dashboard updates.
-•	Deployed the application using Vercel and MongoDB Atlas
+-	Developed a stock market platform with AI predictions and virtual trading.
+-	Built REST APIs for stock data, user accounts, and transaction history.
+-	Integrated Python and Yahoo Finance for stock data and ML predictions.
+-	Used Socket.io for real-time dashboard updates.
+-	Deployed the application using Vercel and MongoDB Atlas
 
 ### 🎓 STDYAI
 StudyAI – Smart AI-Powered Learning Platform | React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API
 Full-Stack Developer
-•	Developed an AI-powered platform that generates summaries, flashcards, and quizzes from PDF, DOCX, and TXT files.
-•	Integrated Google Gemini API to create accurate, document-based study materials.
-•	Built interactive quizzes, 3D flashcards, and PDF export functionality.
-•	Implemented a voice-enabled AI study assistant using Web Speech API.
-•	Added secure login, role-based access, and OTP email verification.
-•	Created a dashboard with study analytics, revision schedules, badges, and leaderboards
+-	Developed an AI-powered platform that generates summaries, flashcards, and quizzes from PDF, DOCX, and TXT files.
+-	Integrated Google Gemini API to create accurate, document-based study materials.
+-	Built interactive quizzes, 3D flashcards, and PDF export functionality.
+-	Implemented a voice-enabled AI study assistant using Web Speech API.
+-	Added secure login, role-based access, and OTP email verification.
+-	Created a dashboard with study analytics, revision schedules, badges, and leaderboards
 
 ### 📱 E-Commerce Mobile Website
 SmartCart Mobiles – E-Commerce Platform | React, Node.js, Express, MongoDB, JWT
@@ -115,12 +115,17 @@ SmartCart Mobiles – E-Commerce Platform | React, Node.js, Express, MongoDB, JW
 - Added image uploads and email notifications.
 - Created dark and light themes and deployed the website on Vercel.
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem112006&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem112006&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=Prem112006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prem112006&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ## 📫 Connect With Me
 
