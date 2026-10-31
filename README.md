@@ -96,7 +96,7 @@ AI Stock Market Prediction Platform | Node.js, Express, MongoDB, Python, Socket.
 -	Used Socket.io for real-time dashboard updates.
 -	Deployed the application using Vercel and MongoDB Atlas
 
-### 🎓 STDYAI
+### 🎓 StudyAI
 StudyAI – Smart AI-Powered Learning Platform | React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API
 Full-Stack Developer
 -	Developed an AI-powered platform that generates summaries, flashcards, and quizzes from PDF, DOCX, and TXT files.
