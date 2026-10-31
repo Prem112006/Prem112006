@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Prem Patel</h1>
+<h1 align="center">Hi 👋, I'm Prem Kardani</h1>
 
 <h3 align="center">Full Stack MERN Developer</h3>
 
